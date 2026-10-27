@@ -5,7 +5,7 @@ A basic calculator application that performs fundamental arithmetic operations, 
 Features
 + Addition
 - Subtraction
-* Multiplication
+X Multiplication
 / Division
 User-friendly interface
 Instant calculation results
