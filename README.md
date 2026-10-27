@@ -3,6 +3,7 @@ The simple calculator app
 A basic calculator application that performs fundamental arithmetic operations, including addition, subtraction, multiplication, and division.
 
 Features
+
 ➕ Addition
 
 ➖ Subtraction
