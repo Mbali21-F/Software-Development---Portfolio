@@ -4,12 +4,19 @@ A basic calculator application that performs fundamental arithmetic operations, 
 
 Features
 ➕ Addition
+
 ➖ Subtraction
+
 ✖️ Multiplication
+
 ➗ Division
+
 User-friendly interface
+
 Instant calculation results
+
 Input validation
+
 Division-by-zero error handling
 
 Requirements
