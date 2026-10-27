@@ -3,10 +3,10 @@ The simple calculator app
 A basic calculator application that performs fundamental arithmetic operations, including addition, subtraction, multiplication, and division.
 
 Features
-+ Addition
-- Subtraction
-X Multiplication
-/ Division
++ Addition +
+- Subtraction -
+* Multiplication  X
+/ Division /
 User-friendly interface
 Instant calculation results
 Input validation
